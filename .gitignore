@@ -1,0 +1,8 @@
+# .gitignore
+
+# Generated files
+lex.yy.c
+parser.tab.c
+parser.tab.h
+simple_c_compiler
+
